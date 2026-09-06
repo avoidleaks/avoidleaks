@@ -16,9 +16,9 @@ Linux Enthusiast | Security Tools | Web & Mod Developer
 ![Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=GNU-Bash&logoColor=white)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ![Minecraft](https://img.shields.io/badge/Minecraft-2E7D32?style=for-the-badge&logo=minecraft&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -30,18 +30,22 @@ Linux Enthusiast | Security Tools | Web & Mod Developer
 
 ## 🚀 Projects / პროექტები
 
-### 📐 [Math Problem Solver](https://github.com/avoidleaks/math-problem-solver)
-Interactive web application for solving circle geometry, visualising fraction operations, and computing work-rate math problems across 12 languages.
+### 📐 [math-problem-solver](https://github.com/avoidleaks/math-problem-solver)
+Interactive Circle Geometry, Fraction Visualizer, and Work-Rate Problem Solver Suite.
 - 🔗 **Live Demo:** [avoidleaks.github.io/math-problem-solver](https://avoidleaks.github.io/math-problem-solver/)
 
-### 🛡️ Skilled-Threat-Analyzer
-Python-based cybersecurity tool focused on network analysis, log auditing, and threat scanning.
+### 🏎️ [physics-racing-simulator](https://github.com/avoidleaks/physics-racing-simulator)
+Interactive browser-based physics simulator game built with HTML5 Canvas and JavaScript.
+- 🔗 **Live Demo:** [avoidleaks.github.io/physics-racing-simulator](https://avoidleaks.github.io/physics-racing-simulator/)
 
-### 🏎️ Physics Racing Simulator
-HTML5 & Vanilla JavaScript physics engine simulating vehicle dynamics, collisions, and real-time motion.
+### 🔢 [LCM-and-GCD-Calculator](https://github.com/avoidleaks/LCM-and-GCD-Calculator)
+Interactive Euclidean algorithm calculator for LCM (Least Common Multiple) and GCD (Greatest Common Divisor).
+- 🔗 **Live Demo:** [avoidleaks.github.io/LCM-and-GCD-Calculator](https://avoidleaks.github.io/LCM-and-GCD-Calculator/)
 
-### 🎮 Minecraft Modding & Tooling
-Custom Forge mod development for 1.8.9 and 1.21+, resource pack engineering, and Java bytecode inspection.
+### 🛡️ [Skilled-Threat-Analyzer](https://github.com/avoidleaks/Skilled-Threat-Analyzer)
+An interactive Python CLI security suite for network scanning, log analysis, configuration auditing, and threat detection.
+
+### 🎮 Minecraft Modding & Tooling Custom Forge/Fabric mod development for 1.8.9 and 1.21+, resource pack engineering, and Java bytecode inspection.
 
 ---
 
