@@ -29,6 +29,4 @@
 
 ---
 
-### 🐍 Contribution Activity
 
-![Snake Animation](https://raw.githubusercontent.com/avoidleaks/avoidleaks/output/github-snake-dark.svg)
