@@ -31,6 +31,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=avoidleaks&show_icons=true&theme=dark&hide_border=true" alt="avoidleaks' GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avoidleaks&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
 </p>
+
 # გამარჯობა, მე ვარ avoidleaks / SkillOnly 👋
 
 > უსაფრთხოების ინსტრუმენტების დეველოპერი, ვებ-ენთუზიასტი და ალგორითმული ამოცანების ამომხსნელი
