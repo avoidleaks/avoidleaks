@@ -2,9 +2,9 @@
 
 # 🇬🇪 / 🇬🇧 👋 Hi, I'm avoidleaks!
 
-Linux Enthusiast | Java & Mod Developer | Web Builder
+Linux Enthusiast | Security Tools | Web & Mod Developer
 
-ლინუქსის ენთუზიასტი, მოდების დეველოპერი და ვებ-დეველოპერი.
+ლინუქსის ენთუზიასტი, უსაფრთხოების ინსტრუმენტების, მოდებისა და ვებ-დეველოპერი.
 
 ---
 
@@ -15,10 +15,10 @@ Linux Enthusiast | Java & Mod Developer | Web Builder
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white)
 ![Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=GNU-Bash&logoColor=white)
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ![Minecraft](https://img.shields.io/badge/Minecraft-2E7D32?style=for-the-badge&logo=minecraft&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -28,12 +28,20 @@ Linux Enthusiast | Java & Mod Developer | Web Builder
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Projects / პროექტები
 
 ### 📐 [Math Problem Solver](https://github.com/avoidleaks/math-problem-solver)
-An interactive web engine built for solving circle geometry, visualising fraction operations, and solving work-rate math problems across 12 languages.
-
+Interactive web application for solving circle geometry, visualising fraction operations, and computing work-rate math problems across 12 languages.
 - 🔗 **Live Demo:** [avoidleaks.github.io/math-problem-solver](https://avoidleaks.github.io/math-problem-solver/)
+
+### 🛡️ Skilled-Threat-Analyzer
+Python-based cybersecurity tool focused on network analysis, log auditing, and threat scanning.
+
+### 🏎️ Physics Racing Simulator
+HTML5 & Vanilla JavaScript physics engine simulating vehicle dynamics, collisions, and real-time motion.
+
+### 🎮 Minecraft Modding & Tooling
+Custom Forge mod development for 1.8.9 and 1.21+, resource pack engineering, and Java bytecode inspection.
 
 ---
 
