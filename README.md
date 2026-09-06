@@ -1,4 +1,4 @@
-# Hi there, I'm avoidleaks 👋
+# Hi there, I'm avoidleaks AKA SkillOnly 👋
 
 Security Tooling Developer & Python Enthusiast
 
