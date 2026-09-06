@@ -9,6 +9,9 @@ Security Tooling Developer & Python Enthusiast
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+### 🐍 Contribution Snake
+
+![Snake Animation](https://raw.githubusercontent.com/avoidleaks/avoidleaks/output/github-snake-dark.svg)
 ---
 
 ## 🚀 Projects
