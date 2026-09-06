@@ -24,6 +24,7 @@
 * 🧮 **[LCM-and-GCD-Calculator](https://github.com/avoidleaks/LCM-and-GCD-Calculator):** Interactive web application built with Vanilla JS & CSS3 that calculates LCM & GCD while visualizing step-by-step Euclidean algorithm divisions ($O(\log(\min(a, b)))$).
 
 ---
+This Is Only The Start...
 
 ### 📊 GitHub Stats
 
@@ -58,6 +59,8 @@
 * 🧮 **[LCM-and-GCD-Calculator](https://github.com/avoidleaks/LCM-and-GCD-Calculator):** ინტერაქტიული ვებ-აპლიკაცია (Vanilla JS & CSS3), რომელიც ითვლის საერთო ჯერადსა და გამყოფს ევკლიდეს ალგორითმის ნაბიჯ-ნაბიჯ ვიზუალიზაციით ($O(\log(\min(a, b)))$).
 
 ---
+
+ᲔᲡ ᲛᲮᲝᲚᲝᲓ ᲓᲐᲡᲐᲬᲧᲘᲡᲘᲐ...
 
 ### 📊 GitHub სტატისტიკა
 
