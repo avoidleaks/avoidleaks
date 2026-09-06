@@ -1,12 +1,15 @@
-# Hi there, I'm avoidleaks AKA SkillOnly 👋
+# Hi there, I'm avoidleaks / SkillOnly 👋
 
-> Security Tooling Developer & Python Enthusiast
+> Security Tooling Developer, Web Enthusiast & Algorithmic Problem Solver
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -17,6 +20,7 @@
 ### 🚀 Projects
 
 * 🛡️ **[Skilled-Threat-Analyzer](https://github.com/avoidleaks/Skilled-Threat-Analyzer):** Python CLI security suite for network scanning, log auditing, and threat detection.
+* 🧮 **[LCM-and-GCD-Calculator](https://github.com/avoidleaks/LCM-and-GCD-Calculator):** Interactive web application built with Vanilla JS & CSS3 that calculates LCM & GCD while visualizing step-by-step Euclidean algorithm divisions ($O(\log(\min(a, b)))$).
 
 ---
 
@@ -28,5 +32,3 @@
 </p>
 
 ---
-
-
