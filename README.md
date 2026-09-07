@@ -70,4 +70,5 @@ Custom Forge/Fabric mod development for 1.8.9 and 1.21+, resource pack engineeri
 
 ## 📫 Connect
 
+[![Discord Profile](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1535889300984430673)
 [![GitHub](https://img.shields.io/badge/GitHub-avoidleaks-181717?style=for-the-badge&logo=github)](https://github.com/avoidleaks)
