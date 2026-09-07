@@ -51,6 +51,9 @@ Interactive Euclidean algorithm calculator for LCM (Least Common Multiple) and G
 ### 🎮 Minecraft Modding & Tooling
 Custom Forge/Fabric mod development for 1.8.9 and 1.21+, resource pack engineering, and Java bytecode inspection.
 
+### And Way More! Check My Projects Here 👉 : https://github.com/avoidleaks?tab=repositories
+
+
 ---
 
 ## 📊 GitHub Stats
