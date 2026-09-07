@@ -30,6 +30,12 @@ Linux Enthusiast | Security Tools | Web & Mod Developer
 
 ## 🚀 Projects / პროექტები
 
+### 🔍 [cli-text-search-engine](https://github.com/avoidleaks/cli-text-search-engine)
+A stylish, animated Python CLI search utility with custom ASCII art, dynamic keyword highlighting, and interactive text-file navigation.
+
+### 🛡️ [Skilled-Threat-Analyzer](https://github.com/avoidleaks/Skilled-Threat-Analyzer)
+An interactive Python CLI security suite for network scanning, log analysis, configuration auditing, and threat detection.
+
 ### 📐 [math-problem-solver](https://github.com/avoidleaks/math-problem-solver)
 Interactive Circle Geometry, Fraction Visualizer, and Work-Rate Problem Solver Suite.
 - 🔗 **Live Demo:** [avoidleaks.github.io/math-problem-solver](https://avoidleaks.github.io/math-problem-solver/)
@@ -42,10 +48,8 @@ Interactive browser-based physics simulator game built with HTML5 Canvas and Jav
 Interactive Euclidean algorithm calculator for LCM (Least Common Multiple) and GCD (Greatest Common Divisor).
 - 🔗 **Live Demo:** [avoidleaks.github.io/LCM-and-GCD-Calculator](https://avoidleaks.github.io/LCM-and-GCD-Calculator/)
 
-### 🛡️ [Skilled-Threat-Analyzer](https://github.com/avoidleaks/Skilled-Threat-Analyzer)
-An interactive Python CLI security suite for network scanning, log analysis, configuration auditing, and threat detection.
-
-### 🎮 Minecraft Modding & Tooling Custom Forge/Fabric mod development for 1.8.9 and 1.21+, resource pack engineering, and Java bytecode inspection.
+### 🎮 Minecraft Modding & Tooling
+Custom Forge/Fabric mod development for 1.8.9 and 1.21+, resource pack engineering, and Java bytecode inspection.
 
 ---
 
