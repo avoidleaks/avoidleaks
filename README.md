@@ -60,7 +60,7 @@ Custom Forge/Fabric mod development for 1.8.9 and 1.21+, resource pack engineeri
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Github Stats And Portfolio 
 
 <div align="center">
 
